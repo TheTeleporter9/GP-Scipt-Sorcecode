@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Custom Language test/1.0.0": {
+        "runtime": {
+          "Custom Language test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Custom Language test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

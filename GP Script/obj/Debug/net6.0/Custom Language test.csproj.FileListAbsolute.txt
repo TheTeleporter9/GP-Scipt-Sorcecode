@@ -1,0 +1,15 @@
+E:\code\C#\Custom Language test\bin\Debug\net6.0\Custom Language test.exe
+E:\code\C#\Custom Language test\bin\Debug\net6.0\Custom Language test.deps.json
+E:\code\C#\Custom Language test\bin\Debug\net6.0\Custom Language test.runtimeconfig.json
+E:\code\C#\Custom Language test\bin\Debug\net6.0\Custom Language test.dll
+E:\code\C#\Custom Language test\bin\Debug\net6.0\Custom Language test.pdb
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.csproj.AssemblyReference.cache
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.AssemblyInfoInputs.cache
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.AssemblyInfo.cs
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.csproj.CoreCompileInputs.cache
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.dll
+E:\code\C#\Custom Language test\obj\Debug\net6.0\refint\Custom Language test.dll
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.pdb
+E:\code\C#\Custom Language test\obj\Debug\net6.0\Custom Language test.genruntimeconfig.cache
+E:\code\C#\Custom Language test\obj\Debug\net6.0\ref\Custom Language test.dll
